@@ -1,7 +1,7 @@
 const Data=()=>
 {
     return(
-        <h1>Here is Data</h1>
+        <p>Here is Data</p>
     )
 }
 export default Data;
