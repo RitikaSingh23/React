@@ -1,15 +1,11 @@
-import Data from "./Data";
-import Footer from "./Footer";
-import Header from "./Header";
+import Student from "./Student";
 
 
 const App=()=>{
   return( 
   <>
     <h1>Hello this is cybrome classes!</h1>
-    <Header/>
-    <Data/>
-    <Footer/>
+    <Student  name="Ritika" city="Bhopal" sub="Java"/>
   </>
   )
 }
